@@ -1,0 +1,6 @@
+Nahom Bekele
+ATR/2892/08
+
+
+ToDoList Android App - using MVC Architecture
+Contacts Search App - using Client/Server Architecture
